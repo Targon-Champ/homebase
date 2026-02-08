@@ -10,3 +10,4 @@
 | Alexander Meylikhov | aem0000001@gmail.com       | [linkedin.com/in/meylikhov](https://www.linkedin.com/in/meylikhov/)          |
 | Ana Izma            | anaizma16@gmail.com        | [linkedin.com/in/anaizma](https://www.linkedin.com/in/anaizma/)              |
 | Chikaosolu Nnadozie | chikaosro@gmail.com        | [linkedin.com/in/chikaosolu-nnadozie-798424279/]                             |
+| Sreemanth M         | skm164@case.edu            |                                                                              |
