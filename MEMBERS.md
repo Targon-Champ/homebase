@@ -11,3 +11,4 @@
 | Ana Izma            | anaizma16@gmail.com        | [linkedin.com/in/anaizma](https://www.linkedin.com/in/anaizma/)              |
 | Chikaosolu Nnadozie | chikaosro@gmail.com        | [linkedin.com/in/chikaosolu-nnadozie-798424279/]                             |
 | Sreemanth M         | skm164@case.edu            |                                                                              |
+| Sri Immani          | sxi219@case.edu            | [immanisrisatyasai.com](immanisrisatyasai.com)                               |
